@@ -3,20 +3,20 @@
     {
       "id": 1,
       "cardTitle": "News Item Title One",
-      "cardBreif": "Item 1 with some quick example text to build on the card title and make up the bulk of the card content.",
-      "imgSrc": "../assets/crime.jpg"
+      "cardBreif": "Item 1 some quick example text to build on the card title and make up the bulk of the card content.",
+      "imgSrc": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9"
     },
     {
       "id": 2,
       "cardTitle": "News Item Title Two",
-      "cardBreif": "Item 2 with some quick example text to build on the card title and make up the bulk of the card content.",
-      "imgSrc": "../assets/social.jpg"
+      "cardBreif": "Item 2 some quick example text to build on the card title and make up the bulk of the card content.",
+      "imgSrc": "https://images.unsplash.com/photo-1588611911587-7bc55b45d588?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9"
     },
     {
       "id": 3,
       "cardTitle": "News Item Title Three",
-      "cardBreif": "Item 3 with some quick example text to build on the card title and make up the bulk of the card content.",
-      "imgSrc": "../assets/sports.jpg"
+      "cardBreif": "Item 3 some quick example text to build on the card title and make up the bulk of the card content.",
+      "imgSrc": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9"
     }
   ]
 }
