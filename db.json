@@ -3,19 +3,19 @@
     {
       "id": 1,
       "cardTitle": "News Item Title One",
-      "cardBreif": "Item 1 some quick example text to build on the card title and make up the bulk of the card content.",
+      "cardBreif": "Item 1 with some quick example text to build on the card title and make up the bulk of the card content.",
       "imgSrc": "../assets/crime.jpg"
     },
     {
       "id": 2,
       "cardTitle": "News Item Title Two",
-      "cardBreif": "Item 2 some quick example text to build on the card title and make up the bulk of the card content.",
+      "cardBreif": "Item 2 with some quick example text to build on the card title and make up the bulk of the card content.",
       "imgSrc": "../assets/social.jpg"
     },
     {
       "id": 3,
       "cardTitle": "News Item Title Three",
-      "cardBreif": "Item 3 some quick example text to build on the card title and make up the bulk of the card content.",
+      "cardBreif": "Item 3 with some quick example text to build on the card title and make up the bulk of the card content.",
       "imgSrc": "../assets/sports.jpg"
     }
   ]
