@@ -5,21 +5,27 @@
       "cardTitle": "Politics News Item",
       "cardBreif": "Item 1 some quick example text to build on the card title and make up the bulk of the card content.",
       "imgSrc": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
-      "category": "politics"
+      "category": "politics",
+      "description": "Politics news description",
+      "date": "15-7-2020"
     },
     {
       "id": 2,
       "cardTitle": "Social News Item",
       "cardBreif": "Item 2 some quick example text to build on the card title and make up the bulk of the card content.",
       "imgSrc": "https://images.unsplash.com/photo-1588683023217-97e48b7da1a2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
-      "category": "social"
+      "category": "social",
+      "description": "Social news description",
+      "date": "15-7-2020"
     },
     {
       "id": 3,
       "cardTitle": "Sports News Item",
       "cardBreif": "Item 3 some quick example text to build on the card title and make up the bulk of the card content.",
       "imgSrc": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
-      "category": "sports"
+      "category": "sports",
+      "description": "Sports news description",
+      "date": "15-7-2020"
     }
   ]
 }
